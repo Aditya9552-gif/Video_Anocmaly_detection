@@ -71,8 +71,8 @@ The app:
 * `*.keras` — Trained classifier models
 * `rgb_imagenet.pt` — Pretrained I3D model weights
 * `pytorch_i3d.py` — I3D model implementation
-* `i3d-feature-extraction-and-splitting.ipynb` — Feature extraction notebook
-* `Video_anomaly_detection_models_and_testing.ipynb` — Training and evaluation
+* `i3d-feature-extraction-and-splitting.ipynb` — Feature extraction and spliting the extracted features in train, validation and test data
+* `Video_anomaly_detection_models_and_testing.ipynb` — Training ,evaluation and testing new unseen videos.
 
 ## 🧩 Use Cases
 
