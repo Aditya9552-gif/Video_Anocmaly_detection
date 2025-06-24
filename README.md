@@ -47,7 +47,7 @@ These results indicate a strong balance between false positives and false negati
 
 ## 🖥️ Live Demo
 
-👉 Try the live Streamlit app [here](Your-Streamlit-App-Link-Goes-Here).
+👉 Try the live Streamlit app [here](https://huggingface.co/spaces/Aditya9552/CCTV_Video_anomaly_detection).
 
 The app:
 
