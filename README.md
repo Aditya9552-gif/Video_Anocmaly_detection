@@ -1,6 +1,6 @@
 # 🚨 CCTV Video Anomaly Detection
 
-This project focuses on detecting anomalies in CCTV surveillance footage using deep learning techniques. The pipeline uses spatiotemporal feature extraction with a pre-trained I3D model and multiple deep learning classifiers to predict whether a video segment contains anomalous activity.
+This project focuses on detecting anomalies in CCTV surveillance footage using deep learning techniques. The pipeline uses spatiotemporal feature extraction with a pre-trained I3D model and multiple deep learning classifiers to predict whether a video contains anomalous activity.
 
 ## 🎯 Objective
 
@@ -37,11 +37,11 @@ Each model predicts whether a given sequence (clip) is normal or anomalous based
 
 The ensemble model was evaluated at the video level and achieved the following metrics:
 
-* **Accuracy:** 88.07%
-* **Precision:** 89.13%
+* **Accuracy:** 88.42%
+* **Precision:** 89.78%
 * **Recall:** 86.62%
-* **F1 Score:** 87.86%
-* **ROC AUC:** 88.07%
+* **F1 Score:** 88.17%
+* **ROC AUC:** 93.39%
 
 These results indicate a strong balance between false positives and false negatives, making it suitable for real-world anomaly detection applications.
 
